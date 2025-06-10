@@ -1,4 +1,4 @@
-# 🎵 Anime Music Player
+# 🎵 Misc Music Player
 
 Aplikasi music player modern dengan tema anime yang dibangun menggunakan Next.js 15, TypeScript, dan Tailwind CSS. Dilengkapi dengan fitur-fitur canggih seperti Web Audio API untuk efek pan stereo, video background dinamis, dan dukungan lyrics format LRC.
 
